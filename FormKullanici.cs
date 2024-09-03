@@ -186,7 +186,6 @@ namespace KutuphaneYonetim
                 sqlcommand2.ExecuteNonQuery();
 
 
-
             }
             catch (Exception ex)
             {
